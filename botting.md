@@ -232,11 +232,3 @@ Stabilität entsteht nicht durch Gegenwehr,
 sondern durch Verständnis.
 
 ---
-
-Wenn du willst, kann ich daraus noch:
-
-* eine **reine Mod-Checkliste**
-* eine **1-Screen-Discord-Version**
-* oder eine **ergänzende Kurzfassung für neue Streamer**
-
-machen – im exakt gleichen Stil.
