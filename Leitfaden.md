@@ -198,17 +198,103 @@ Weniger Automatik – mehr Verständnis.
 
 ## Audio – warum es wichtiger ist als alles andere
 
-Ich bin kein Audio-Profi
-und halte es für völlig legitim,
-auf gute Anleitungen zurückzugreifen.
+Audio ist der unterschätzteste Teil beim Streaming –  
+und gleichzeitig der wichtigste.
 
-Hilfreiche Ressourcen:
+Bevor das Bild perfekt ist,  
+sollte dein Ton verständlich, sauber und angenehm sein.
 
-- **Porky Jones** – OBS & ReaPlugs  
-  https://www.youtube.com/watch?v=U-xiYGghmHs&list=PLvaBMmoWafYDRpOzzFb6OW1RWY3Z-qJgf
+> **Schlechtes Bild verzeiht man.**  
+> **Schlechter Ton sorgt dafür, dass Leute sofort gehen.**
 
-- **Nilson** – Praxisnahes Streaming-Audio  
-  https://www.youtube.com/watch?v=UpfRotJXKXI&list=PLXNUbE8XKh9pVogkTiDA5pI5AahgWB3eD
+Das ist keine Übertreibung, sondern eine der wenigen echten „Grundregeln“.
+
+---
+
+### Mikrofon – der wichtigste Baustein
+
+Du brauchst kein High-End-Setup.  
+Aber du brauchst ein Mikrofon, das:
+
+- deine Stimme klar aufnimmt  
+- möglichst wenig Raumhall einfängt  
+- stabil und zuverlässig funktioniert  
+
+Ein gutes USB-Mikrofon reicht für den Einstieg völlig aus.
+
+Ein Kondensatormikrofon kann sinnvoll sein,  
+reagiert aber stärker auf Raum und Umgebung.  
+Das bedeutet: Es klingt gut – aber nur, wenn dein Raum halbwegs passt.
+
+Wichtiger als das konkrete Modell ist daher:
+
+- Abstand zum Mikrofon  
+- Raumakustik (weniger Hall)  
+- richtige Ausrichtung  
+
+---
+
+### Software & Bearbeitung
+
+Tools können viel verbessern –  
+aber sie ersetzen kein sauberes Ausgangssignal.
+
+Programme wie NVIDIA Broadcast oder Filter in OBS können:
+
+- Rauschen reduzieren  
+- Hintergrundgeräusche filtern  
+- die Stimme klarer machen  
+
+Aber:
+
+> **Sie können Probleme kaschieren – nicht lösen.**
+
+Ein schlecht aufgenommenes Signal bleibt ein Kompromiss.
+
+---
+
+### Lernen statt raten
+
+Ich selbst bin kein Audio-Profi  
+und halte es für sinnvoll, sich an bewährten Quellen zu orientieren.
+
+Sehr hilfreich fand ich:
+
+- **Porky Jones – OBS & ReaPlugs**  
+  https://www.youtube.com/watch?v=U-xiYGghmHs&list=PLvaBMmoWafYDRpOzzFb6OW1RWY3Z-qJgf  
+
+- **Nilson – Praxisnahes Streaming-Audio**  
+  https://www.youtube.com/watch?v=UpfRotJXKXI&list=PLXNUbE8XKh9pVogkTiDA5pI5AahgWB3eD  
+
+Diese erklären nicht nur *was* man einstellen soll,  
+sondern auch *warum*.
+
+---
+
+### Realität: Es geht nicht um das „beste“ Mikrofon
+
+Viele machen den Fehler, sofort nach dem „perfekten“ Mikrofon zu suchen.
+
+In der Praxis ist wichtiger:
+
+- wie du es einstellst  
+- wie du sprichst  
+- wie dein Raum klingt  
+
+Ein günstigeres Mikrofon, das gut eingestellt ist,  
+klingt oft besser als ein teures, das falsch genutzt wird.
+
+---
+
+### Kurz gesagt
+
+- Audio ist wichtiger als Video  
+- Technik hilft – ersetzt aber kein Verständnis  
+- weniger Gear, mehr Kontrolle ist oft besser  
+
+Streaming wird entspannter,  
+wenn dein Ton einfach **funktioniert**,  
+ohne dass du ständig daran denken musst.
 
 ---
 
