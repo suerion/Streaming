@@ -268,7 +268,7 @@ https://www.youtube.com/watch?v=k2ovTOvo2Rw
 https://www.youtube.com/watch?v=0YM-Lndb_SY
 
 Das erste Video erklärt die Grundlagen der Audio-Filter in OBS  
-und hilft dabei zu verstehen, **was die einzelnen Filter überhaupt tun**. :contentReference[oaicite:0]{index=0}  
+und hilft dabei zu verstehen, **was die einzelnen Filter überhaupt tun**.
 
 Das zweite baut darauf auf und zeigt,  
 wie man diese Filter sinnvoll kombiniert und anwendet.
