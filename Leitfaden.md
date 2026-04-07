@@ -259,17 +259,28 @@ Gerade am Anfang ist es schwer zu verstehen,
 welche Filter wirklich sinnvoll sind  
 und in welcher Reihenfolge sie eingesetzt werden sollten.
 
-Ein gutes Praxisbeispiel dafür findest du hier  
-(relevant ab Minute 7):
+Ein gutes Praxisbeispiel dafür sind diese beiden Videos:
 
+**Grundlagen (älter, aber wichtig für Verständnis):**  
+https://www.youtube.com/watch?v=k2ovTOvo2Rw
+
+**Fortgeschritten / Anwendung (relevant ab Minute 7):**  
 https://www.youtube.com/watch?v=0YM-Lndb_SY
 
-Dieses Video zeigt nicht nur Einstellungen,  
-sondern erklärt auch, **warum bestimmte Filter eingesetzt werden**.
+Das erste Video erklärt die Grundlagen der Audio-Filter in OBS  
+und hilft dabei zu verstehen, **was die einzelnen Filter überhaupt tun**. :contentReference[oaicite:0]{index=0}  
 
-Das ist entscheidend –  
-denn falsche Filter oder falsche Reihenfolge  
-verschlechtern den Ton oft mehr, als sie helfen.
+Das zweite baut darauf auf und zeigt,  
+wie man diese Filter sinnvoll kombiniert und anwendet.
+
+Diese Reihenfolge ist wichtig:
+
+- zuerst verstehen, was ein Filter macht  
+- danach lernen, wie man ihn richtig einsetzt  
+
+Denn:
+
+> **Falsche Filter oder falsche Reihenfolge verschlechtern den Ton oft mehr, als sie helfen.**
 
 ---
 
