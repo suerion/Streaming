@@ -47,7 +47,7 @@ Im Gegenteil:
 Zum Start reicht heute oft nichts weiter als ein Handy und eine Internetverbindung.
 
 Streaming war noch nie so niedrigschwellig.  
-Ein Button genügt, und man ist live.
+Ein Button genügt – und man ist live.
 
 Der eigentliche Irrtum entsteht erst danach:  
 der Glaube, dass Streaming dauerhaft genau so funktioniert.
@@ -239,7 +239,7 @@ Wichtiger als das konkrete Modell ist daher:
 Tools können viel verbessern –  
 aber sie ersetzen kein sauberes Ausgangssignal.
 
-Programme wie NVIDIA Broadcast oder Filter in OBS können:
+Programme wie NVIDIA Broadcast oder Audio-Filter in OBS können:
 
 - Rauschen reduzieren  
 - Hintergrundgeräusche filtern  
@@ -253,6 +253,84 @@ Ein schlecht aufgenommenes Signal bleibt ein Kompromiss.
 
 ---
 
+### Filter richtig einstellen (Praxis verstehen)
+
+Gerade am Anfang ist es schwer zu verstehen,  
+welche Filter wirklich sinnvoll sind  
+und in welcher Reihenfolge sie eingesetzt werden sollten.
+
+Ein gutes Praxisbeispiel dafür findest du hier  
+(relevant ab Minute 7):
+
+https://www.youtube.com/watch?v=0YM-Lndb_SY
+
+Dieses Video zeigt nicht nur Einstellungen,  
+sondern erklärt auch, **warum bestimmte Filter eingesetzt werden**.
+
+Das ist entscheidend –  
+denn falsche Filter oder falsche Reihenfolge  
+verschlechtern den Ton oft mehr, als sie helfen.
+
+---
+
+### NVIDIA Audio-Filter (für RTX-Grafikkarten)
+
+Wenn du eine NVIDIA-Grafikkarte nutzt,  
+hast du zusätzliche Möglichkeiten für Audioverbesserung.
+
+NVIDIA Audio-Filter (z. B. über NVIDIA Broadcast oder das SDK) bieten:
+
+- starke Reduktion von Hintergrundgeräuschen (Tastatur, Maus)  
+- klarere Hervorhebung der Stimme  
+- KI-gestützte Echtzeitverarbeitung  
+
+Ressourcen:  
+https://www.nvidia.com/de-at/geforce/broadcasting/broadcast-sdk/resources/
+
+---
+
+### NVIDIA Broadcast (Alternative)
+
+Alternativ kannst du auch NVIDIA Broadcast verwenden.
+
+Der Unterschied:
+
+- OBS-Filter → wirken nur innerhalb von OBS  
+- NVIDIA Broadcast → verändert dein Mikrofon systemweit  
+
+Das ist besonders sinnvoll, wenn du:
+
+- auch in Discord oder Games besseren Ton willst  
+- ein einheitliches Audio-Setup nutzen möchtest  
+
+---
+
+### Einordnung
+
+> **Filter verbessern gutes Audio – sie retten kein schlechtes Setup.**
+
+Das bedeutet:
+
+- Mikrofonposition bleibt entscheidend  
+- Raumakustik bleibt entscheidend  
+- Grundsignal bleibt entscheidend  
+
+Die Filter sind ein Werkzeug –  
+nicht die Lösung für grundlegende Probleme.
+
+---
+
+### Schneller Audio-Check
+
+Wenn dein Audio passt, dann:
+
+- versteht man dich auch leise gesprochen  
+- sind Tastatur und Maus nicht dominant  
+- klingt deine Stimme konstant (nicht schwankend)  
+- musst du während des Streams nichts nachregeln  
+
+---
+
 ### Lernen statt raten
 
 Ich selbst bin kein Audio-Profi  
@@ -260,20 +338,20 @@ und halte es für sinnvoll, sich an bewährten Quellen zu orientieren.
 
 Sehr hilfreich fand ich:
 
-- **Porky Jones – OBS & ReaPlugs**  
+- Porky Jones – OBS & ReaPlugs  
   https://www.youtube.com/watch?v=U-xiYGghmHs&list=PLvaBMmoWafYDRpOzzFb6OW1RWY3Z-qJgf  
 
-- **Nilson – Praxisnahes Streaming-Audio**  
+- Nilson – Praxisnahes Streaming-Audio  
   https://www.youtube.com/watch?v=UpfRotJXKXI&list=PLXNUbE8XKh9pVogkTiDA5pI5AahgWB3eD  
 
-Diese erklären nicht nur *was* man einstellen soll,  
-sondern auch *warum*.
+Diese erklären nicht nur was man einstellen soll,  
+sondern auch warum.
 
 ---
 
 ### Realität: Es geht nicht um das „beste“ Mikrofon
 
-Viele machen den Fehler, sofort nach dem „perfekten“ Mikrofon zu suchen.
+Viele machen den Fehler, sofort nach dem perfekten Mikrofon zu suchen.
 
 In der Praxis ist wichtiger:
 
@@ -293,7 +371,7 @@ klingt oft besser als ein teures, das falsch genutzt wird.
 - weniger Gear, mehr Kontrolle ist oft besser  
 
 Streaming wird entspannter,  
-wenn dein Ton einfach **funktioniert**,  
+wenn dein Ton einfach funktioniert,  
 ohne dass du ständig daran denken musst.
 
 ---
@@ -319,6 +397,8 @@ Mein Setup besteht aus:
 - StreamElements  
 - SoundAlerts  
 - SeryBot  
+- NVIDIA Broadcast oder NVIDIA Audio-Filter (SDK)  
+- ReaPlugs  
 
 Es ist bewusst schlank,
 stabil und nachvollziehbar.
@@ -330,6 +410,12 @@ wenn man versteht, **was man tut – und warum**.
 Weniger ist oft mehr.  
 Nicht aus Prinzip,  
 sondern aus Verständnis.
+
+Streaming wird nicht besser durch mehr Tools.  
+
+Streaming wird besser,  
+wenn du verstehst,  
+was du tust.
 
 ---
 
@@ -348,7 +434,7 @@ Dieser Leitfaden basiert auf meinen eigenen Erfahrungen
 und meinem real genutzten Streaming-Setup.
 
 Zur Strukturierung und Ausarbeitung
-wurde unterstützend **ChatGPT** eingesetzt –
+wurde unterstützend ChatGPT eingesetzt –  
 nicht als Ersatz für Praxis,
 sondern als Werkzeug zur Ordnung und Präzisierung von Gedanken.
 
