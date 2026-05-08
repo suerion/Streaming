@@ -202,8 +202,9 @@ Diese Artikel ersetzen keine Behördeninformationen, helfen aber oft dabei, die 
 
 ## Österreichische Informationsquellen
 
-* [WKO Österreich](https://www.youtube.com/@WKOesterreich)
-* [Bundesministerium für Finanzen Österreich](https://www.youtube.com/@bmf.gv.at_kommunikation)
+* [WKO Österreich](https://www.youtube.com/@wirtschaftskammer)
+* [Bundesministerium für Finanzen Österreich](https://www.youtube.com/@bundesministeriumfurfinanz5796)
+* [Arbeiterkammer Österreich](https://www.youtube.com/@arbeiterkammer)
 
 ---
 
