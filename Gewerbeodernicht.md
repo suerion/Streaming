@@ -95,8 +95,6 @@ Und trotzdem macht man es weiter, weil:
 -   man kreativ sein möchte
 -   man das Hobby einfach liebt
 
-Wichtig ist dabei:
-
 > Nicht jede Einnahme bedeutet automatisch, dass sofort ein Gewerbe oder
 > Unternehmen vorliegt.
 
@@ -134,6 +132,16 @@ Dabei wird unter anderem betrachtet:
 -   Entstehen langfristig Überschüsse?
 -   Wird die Tätigkeit wie ein Unternehmen betrieben?
 
+Und genau hier entstehen oft die Graubereiche.
+
+Denn zwei Streamer können nahezu dieselben Einnahmen haben, aber
+komplett unterschiedlich eingestuft werden.
+
+Zum Beispiel wenn:
+
+-   eine Person einfach nur aus Spaß streamt
+-   die andere gezielt ein Business aufbauen möchte
+
 Deshalb gibt es oft keine pauschale Antwort auf die Frage:
 
 > „Brauche ich jetzt ein Gewerbe oder nicht?"
@@ -155,8 +163,17 @@ Gerade bei:
 
 ...kommt es stark auf die individuelle Situation an.
 
-In Österreich gibt es keinen eigenen speziellen
-„Streamer-Gewerbeschein".
+In Österreich gibt es für:
+
+-   Streamer
+-   Influencer
+-   Blogger
+-   Content Creator
+
+keinen eigenen speziellen „Streamer-Gewerbeschein".
+
+Und genau das macht das Thema manchmal kompliziert, weil man sich vieles
+aus verschiedenen Quellen zusammensuchen muss.
 
 ------------------------------------------------------------------------
 
@@ -187,7 +204,8 @@ Dazu gehören beispielsweise:
 -   Affiliate-Marketing
 -   vergütete Social-Media-Beiträge
 -   Werbegeschenke als Gegenleistung für Werbung
--   UGC (User Generated Content)
+-   UGC (User Generated Content), also die Erstellung von Inhalten im
+    Auftrag von Unternehmen
 -   Auftragsproduktionen für Unternehmen
 -   das Vermarkten eigener Werbeflächen
 
@@ -195,10 +213,16 @@ Gerade solche Tätigkeiten verfolgen einen wirtschaftlichen Zweck und
 unterscheiden sich deutlich von einer Community, die einen Stream
 freiwillig unterstützt.
 
+Wer regelmäßig Werbung, Sponsoring oder Kooperationen durchführt oder
+entsprechende Anfragen von Unternehmen erhält, sollte sich deshalb
+frühzeitig bei der WKO oder einem Steuerberater informieren, welche
+rechtlichen und steuerlichen Schritte für die eigene Situation notwendig
+sind.
+
 > Hinweis: Für Content Creator gibt es in Österreich keinen eigenen
 > „Streamer-Gewerbeschein". Je nach Tätigkeit kann jedoch ein
-> bestehendes freies Gewerbe oder eine andere Form der selbstständigen
-> Tätigkeit infrage kommen.
+> bestehendes freies Gewerbe -- beispielsweise im Bereich Werbeagentur
+> -- oder eine andere Form der selbstständigen Tätigkeit infrage kommen.
 
 ------------------------------------------------------------------------
 
@@ -210,18 +234,81 @@ freiwillig unterstützt.
 
 ------------------------------------------------------------------------
 
+# Influencer, Blogger & Streamer in Österreich
+
+## Ergänzende Fachartikel
+
+Diese Artikel ersetzen keine Behördeninformationen, helfen aber oft
+dabei, die Themen verständlicher einzuordnen.
+
+### Steuerberatung / Fachinformationen
+
+-   https://www.stb-huemer.at/stb/2024/08/20/influencer-blogger-streamer-gewerbe-finanzamt-sozialversicherung/
+-   https://artus.at/blog/das-steuer-1x1-fuer-content-creator/
+
+### Rechtliche Informationen
+
+-   https://www.raoe.at/news/welche-regeln-gelten-fuer-influencer-in-oesterreich/
+
+------------------------------------------------------------------------
+
+# Videos & ergänzende Inhalte
+
+> ⚠️ Videos können hilfreich sein, ersetzen aber keine offiziellen
+> Informationen oder Beratung.
+
+## Österreichische Informationsquellen
+
+-   https://www.youtube.com/@wirtschaftskammer
+-   https://www.youtube.com/@bundesministeriumfurfinanz5796
+-   https://www.youtube.com/@arbeiterkammer
+
+------------------------------------------------------------------------
+
 # Persönlicher Gedanke
 
 Ich persönlich finde, dass gerade kleine Streamer oft sehr schnell in
-eine Richtung gedrängt werden, in der plötzlich alles wachsen, Geld
-bringen und professionell wirken muss.
+eine Richtung gedrängt werden, in der plötzlich alles:
 
-Dabei vergessen viele: Nicht jedes Hobby muss automatisch ein
-Unternehmen werden.
+-   wachsen
+-   Geld bringen
+-   professionell wirken
+-   Reichweite erzeugen
 
-Viele kleine Streamer investieren mehr Geld als sie verdienen und
-streamen einfach aus Leidenschaft und Spaß.
+...muss.
 
-Trotzdem sollte man Einnahmen dokumentieren, sich frühzeitig informieren
-und bei Unsicherheiten die WKO, das Finanzamt oder einen Steuerberater
-kontaktieren.
+Dabei vergessen viele:
+
+Nicht jedes Hobby muss automatisch ein Unternehmen werden.
+
+Viele kleine Streamer, so wie ich:
+
+-   investieren mehr Geld als sie verdienen
+-   streamen unregelmäßig
+-   haben keinen fixen Schedule
+-   machen kaum Werbung
+-   möchten keine Firma aufbauen
+-   streamen einfach aus Leidenschaft und Spaß
+
+Und genau das sollte man nicht vergessen.
+
+Nicht jeder Twitch-Kanal ist automatisch:
+
+-   ein Unternehmen
+-   ein Gewerbe
+-   eine professionelle Selbstständigkeit
+
+Trotzdem sollte man:
+
+-   Einnahmen dokumentieren
+-   eine einfache Einnahmen-/Ausgabenübersicht führen
+-   sich frühzeitig informieren
+-   bei Unsicherheit offizielle Stellen kontaktieren
+
+Gerade:
+
+-   WKO
+-   Finanzamt
+-   Steuerberater
+
+können helfen, die eigene Situation besser einzuschätzen.
